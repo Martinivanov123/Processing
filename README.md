@@ -1,2 +1,2 @@
 # Processing
-Here are my programs I made in Processing
+Here are my projects, that I made with Processing!
